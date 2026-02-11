@@ -26,7 +26,9 @@ The second project gain information like:
 - ...
 
 ## Guidance
-We could regard the process of scraping as a series of interaction of input&output to get the data we want. The data is roughly divided into three parts: network parsing, data extraction, and data storage, which you can clearly see in the comments. \n
-In the first part you can change website to gain different data of different hotels. And the way is really simple. Just change the details of URL and add the id of the purpose hotel feel free. But if you feel confused about above content, I thought some knowledge about URl structure is helpful for you.
-The second part is relatively fixed while the third part aimed to save the data as CSV.
+We could regard the process of scraping as a series of interaction of input&output to get the data we want. The data is roughly divided into three parts: network parsing, data extraction, and data storage, which you can clearly see in the comments. <br>
+
+In the first part you can change website to gain different data of different hotels. And the way is really simple. Just change the details of URL and add the id of the purpose hotel feel free. But if you feel confused about above content, I thought some knowledge about URl structure is helpful for you.<br>
+
+The second part is relatively fixed while the third part aimed to save the data as CSV. Change the address feel free.
  
